@@ -1,0 +1,18 @@
+# Ignorar entorno virtual
+DS_IBM/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+*.code-workspace
